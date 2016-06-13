@@ -1,4 +1,4 @@
-name: ParentalEscape
+name: Parental Escape
 favicon: null
 layout_spectrum: 0.6719660216476768
 typography_spectrum: 0.3896899751853198
@@ -22,8 +22,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.09642127086408436
-  lightness: 0.5650098065380007
-  saturation: 0.020542608108371496
-  rhythmicContrast: 0.4615338989533484
+  brandStrength: 0.25
+  lightness: 0.5625
+  saturation: 0.25
+  rhythmicContrast: 0.5
 purpose: []
