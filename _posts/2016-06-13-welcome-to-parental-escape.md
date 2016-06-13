@@ -7,9 +7,9 @@ keywords: []
 description: >-
   Welcome to Parental Escape, the site dedicated to teaching you how to
   successfully move out of your parent's home when the time is right.
-datePublished: '2016-06-13T22:53:20.973Z'
-dateModified: '2016-06-13T22:50:19.273Z'
-title: ''
+datePublished: '2016-06-13T23:26:38.218Z'
+dateModified: '2016-06-13T23:26:31.402Z'
+title: The Time has Come for Parental Escape
 author: []
 sourcePath: _posts/2016-06-13-welcome-to-parental-escape.md
 authors: []
@@ -19,6 +19,8 @@ url: welcome-to-parental-escape/index.html
 _type: Blurb
 
 ---
+# The Time has Come for Parental Escape
+
 Welcome to Parental Escape, the site dedicated to teaching you how to successfully move out of your parent's home when the time is right.
 
 I started this site because my college-age daughter had been struggling with the planning and details that go into moving out of the house to begin living on her own. While we, her parents, wanted her to move out nearly as much as she did, we all understood that successfully leaving the relative comfort of a parent's home for the first time is an extremely intimidating event nearly everyone will experience in their lives. This isn't to say that we didn't want her in the house. On the contrary, we simply understood that at some point, the time comes when a child needs to leave the home he/she grew up in and begin experiencing the world on their own, as we had at her age.
