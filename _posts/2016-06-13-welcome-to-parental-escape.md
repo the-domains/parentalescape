@@ -1,5 +1,5 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
@@ -7,16 +7,16 @@ keywords: []
 description: >-
   Welcome to Parental Escape, the site dedicated to teaching you how to
   successfully move out of your parent's home when the time is right.
-datePublished: '2016-06-13T22:17:55.934Z'
-dateModified: '2016-06-13T22:16:39.557Z'
+datePublished: '2016-06-13T22:32:57.720Z'
+dateModified: '2016-06-13T22:32:56.996Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-13-welcome-to-parental-escape.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-13-welcome-to-parental-escape.md
 url: welcome-to-parental-escape/index.html
-_type: Article
+_type: Blurb
 
 ---
 Welcome to Parental Escape, the site dedicated to teaching you how to successfully move out of your parent's home when the time is right.
