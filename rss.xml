@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ParentalEscape]]></title>
+        <description><![CDATA[ParentalEscape]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 13 Jun 2016 22:17:56 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome to Parental Escape]]></title>
+            <description><![CDATA[<p>Welcome to Parental Escape, the site dedicated to teaching you how to successfully move out of your parent's home when the time is right.</p>]]></description>
+            <link>undefinedwelcome-to-parental-escape/index.html</link>
+            <guid isPermaLink="false">646bfc5b-7f86-4c48-b343-dc0cbaf6f30d</guid>
+            <pubDate>Mon, 13 Jun 2016 22:17:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
