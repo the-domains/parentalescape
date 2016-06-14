@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Parental Escape]]></title>
+        <description><![CDATA[Parental Escape]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 14 Jun 2016 01:45:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>For nearly everyone, housing is the most expensive monthly expense we have. When moving out for the first time, there are a few options available where housing is concerned.</p>]]></description>
+            <link>undefinedfor-nearly-everyone-housing-is-the-most-expensive-monthly-e/index.html</link>
+            <guid isPermaLink="false">a0b5500e-e4f9-4fee-86e5-9a40caaba598</guid>
+            <pubDate>Tue, 14 Jun 2016 01:45:12 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
