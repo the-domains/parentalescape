@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: '-Sheldon Cooper (The Big Bang Theory)'
-datePublished: '2016-06-14T01:49:10.935Z'
-dateModified: '2016-06-14T01:49:03.465Z'
+datePublished: '2016-06-14T02:04:09.818Z'
+dateModified: '2016-06-14T02:04:08.016Z'
 title: '"What About Our Roommate Agreement?"'
 author:
   - name: ''
