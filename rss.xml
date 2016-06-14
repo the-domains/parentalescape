@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Parental Escape]]></title>
         <description><![CDATA[Parental Escape]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/parentalescape/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 14 Jun 2016 01:45:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 14 Jun 2016 01:49:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/parentalescape/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>For nearly everyone, housing is the most expensive monthly expense we have. When moving out for the first time, there are a few options available where housing is concerned.</p>]]></description>
-            <link>undefinedfor-nearly-everyone-housing-is-the-most-expensive-monthly-e/index.html</link>
+            <title><![CDATA["What About Our Roommate Agreement?"]]></title>
+            <description><![CDATA[<article><h1>"What About Our Roommate Agreement?"</h1><h2>Understanding Your Housing Options</h2><p>-Sheldon Cooper (The Big Bang Theory)</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b7524ef-d0d2-4e1d-8d02-037bc93c12e2.jpg"></article>]]></description>
+            <link>https://thegrid.ai/parentalescape/for-nearly-everyone-housing-is-the-most-expensive-monthly-e/index.html</link>
             <guid isPermaLink="false">a0b5500e-e4f9-4fee-86e5-9a40caaba598</guid>
-            <pubDate>Tue, 14 Jun 2016 01:45:12 GMT</pubDate>
+            <pubDate>Tue, 14 Jun 2016 01:49:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
