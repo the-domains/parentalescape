@@ -7,14 +7,14 @@ keywords: []
 description: >-
   Welcome to Parental Escape, the site dedicated to teaching you how to
   successfully move out of your parent's home when the time is right.
-datePublished: '2016-06-14T02:14:11.086Z'
-dateModified: '2016-06-14T02:13:13.906Z'
+datePublished: '2016-06-14T02:27:12.002Z'
+dateModified: '2016-06-14T02:26:48.777Z'
 title: The Time has Come for Parental Escape
 author: []
 sourcePath: _posts/2016-06-13-welcome-to-parental-escape.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: welcome-to-parental-escape/index.html
 _type: Article
 
